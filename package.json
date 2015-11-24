@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "comics-book-library",
   "version": "0.0.0",
   "description": "My super comics book library",
@@ -22,6 +23,15 @@
     "url": "https://github.com/pebie/lpdw-frontend/issues"
   },
   "homepage": "https://github.com/pebie/lpdw-frontend#readme",
+    "url": "git+https://github.com/Flormax/lpdw-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flormax/lpdw-frontend/issues"
+  },
+  "homepage": "https://github.com/Flormax/lpdw-frontend#readme",
+>>>>>>> 3cd5915f870529d495a9052d15eb1e8f0f174e72
   "devDependencies": {
     "babel-core": "^5.8.2",
     "babel-loader": "^5.3.2",
